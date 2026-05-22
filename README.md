@@ -18,5 +18,5 @@ A practical repository focused on the recognition, challenge, and enforcement of
 This repository is intended to provide structured and practical resources for practitioners, researchers, and students working in international arbitration and cross-border dispute resolution.
 
 ## Case Notes
-
+- [Telangana HC — Interim Relief Is Not Enforcement](cases/telangana-rusal-jurisdiction.md)
 
